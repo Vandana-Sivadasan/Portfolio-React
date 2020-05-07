@@ -10,7 +10,7 @@ const Example = (props) => {
   return (
     <div>
       <Navbar color="faded" light>
-        <NavbarBrand href="/" className="mr-auto">reactstrap</NavbarBrand>
+        <NavbarBrand href="/" className="mr-auto">About Me</NavbarBrand>
         <NavbarToggler onClick={toggleNavbar} className="mr-2" />
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
@@ -19,6 +19,7 @@ const Example = (props) => {
                 About
               </Link>
             </NavItem>
+            
             <NavItem>
               <Link activeClass="active" to="projectSection" spy={true} smooth={true} offset={0} duration={1000}>
                 Projects

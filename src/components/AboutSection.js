@@ -6,7 +6,9 @@ import bioImage from "../data/images/picture.jpg";
 export default function Footer() {
   return (
     <Element name="aboutSection" className="section">
+      
       <h1>Hi! I'm Vandana</h1>
+      
         <Row>
           <Col xs={12} md={6}>
             <img src={bioImage} style={{width:`50%`}}/>
