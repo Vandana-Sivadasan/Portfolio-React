@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 import { Row, Col } from "reactstrap"
-import bioImage from "../data/images/villagergamepic.jpg";
+import bioImage from "../data/images/picture.jpg";
 
 export default function Footer() {
   return (
@@ -9,7 +9,7 @@ export default function Footer() {
       <h1>Hi! I'm Vandana</h1>
         <Row>
           <Col xs={12} md={6}>
-            <img src={bioImage} style={{width:`100%`}}/>
+            <img src={bioImage} style={{width:`50%`}}/>
           </Col>
           <Col xs={12} md={6}>
           <p>

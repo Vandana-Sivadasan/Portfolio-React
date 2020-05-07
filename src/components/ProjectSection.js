@@ -19,7 +19,7 @@ export default function Footer() {
     {
       title: "Project 3",
       description: "Project 3 description",
-      github: "",
+      github: "https://github.com/algarran/finalproject",
       demo: ""
     },
     {
