@@ -13,7 +13,9 @@ export default function Footer() {
           </Col>
           <Col xs={12} md={6}>
           <p>
-            This is my bio. This is my bio. This is my bio. This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.This is my bio. This is my bio. This is my bio.
+          I am a Software Developer.My goal is to achieve success in the IT Industry.I played major role as a Project
+            Manager.I can be a good asset to the company.Fluent in oral and written communication. Computer languages
+            that i know are, C++ C SQL HTML CSS JAVASCRIPT Codejs,My SQL,Mongo DB,Mongoose.
         </p>
           </Col>
         </Row>
