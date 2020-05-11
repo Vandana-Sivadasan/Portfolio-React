@@ -9,11 +9,11 @@ export default function Footer() {
       <div>
         <div>
           {/* Nav Link */}
-          <p>Link 1</p>
+          <p>Link 2</p>
         </div>
         <div>
           {/* Nav Link */}
-          <p>Link 2</p>
+          <p>Link 3</p>
 
         </div>
         <div>
